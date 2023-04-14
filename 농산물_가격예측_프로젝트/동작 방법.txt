@@ -1,0 +1,10 @@
+1. pip install 하기
+
+pip install flask
+pip install flask_cors
+
+2. WebServer.py 파일 실행하기
+
+(추가사항)
+모델을 변경하고 싶은 경우
+1. models 폴더에 모델을 넣을 경우 best.pt로 이름을 변경해야 동작한다.
